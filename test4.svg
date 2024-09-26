@@ -4,6 +4,6 @@
   <path d="M52,32l0,26" stroke-width="9" stroke-linecap="round" fill-rule="evenodd"/>
   <circle r="6" cx="52" cy="73"/>
   <script type="text/javascript">
-  alert(document.domain);
+  alert("xss");
   </script>
 </svg>
